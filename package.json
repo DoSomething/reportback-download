@@ -1,0 +1,16 @@
+{
+  "name": "reportback-download",
+  "version": "1.0.0",
+  "description": "Download reportbacks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "minimist": "^1.2.0",
+    "superagent": "^3.4.4"
+  }
+}
