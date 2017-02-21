@@ -4,7 +4,8 @@
   "description": "Download reportbacks",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clear": "rm -rf downloads && mkdir downloads && touch downloads/gitkeep.txt"
   },
   "author": "",
   "license": "MIT",
